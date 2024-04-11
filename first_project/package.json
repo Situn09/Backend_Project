@@ -1,0 +1,16 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "youtube like app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "kcr",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
